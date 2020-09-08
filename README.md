@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Data-Mining-Klasifikasi-NaiveBayes
-Klasifikasi kelayakan penerima beras RASTRA menggunakan metode Naive Bayes
+Klasifikasi menggunakan metode Naive Bayes
 =======
 # naivebayesklasifikasi
 Klasifikasi Zona Covid-19 Di Jawa Barat
